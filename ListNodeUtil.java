@@ -17,23 +17,5 @@ public class ListNodeUtil {
             }
         }
         return newHead;
-
-//        ListNode current = head;
-//        ListNode nextNode;
-//
-//        while (current != null) {
-//            nextNode = current;
-//            while (nextNode.next != null) {
-//                if (current.value == current.next.value) {
-//                    nextNode.next = nextNode.next.next;
-//                } else {
-//                    nextNode = nextNode.next;
-//                }
-//            }
-//            current = current.next;
-//        }
-//
-//        return head;
-
     }
 }
