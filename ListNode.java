@@ -8,12 +8,4 @@ public class ListNode {
     ListNode(int x) {
         value = x;
     }
-
-    public ListNode getNext() {
-        return next;
-    }
-
-    public void setNext(ListNode node) {
-        next = node;
-    }
 }
