@@ -1,4 +1,4 @@
-package home.Task_14;
+package home.Task_15;
 /*
 Задан отсортированный список который состоит из ListNode.
 Написать метод deleteDuplicates, который вернет список без дубликатов.
@@ -6,7 +6,7 @@ package home.Task_14;
         Input: 1->1->2->3->3
         Output: 1->2->3
 */
-public class Task_14_2 {
+public class Task_15_2 {
 
     public static void main(String[] args) {
 
